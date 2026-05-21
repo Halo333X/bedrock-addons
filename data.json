@@ -35,6 +35,11 @@
     "server": {
       "ip": "23.27.211.2",
       "port": 25734
+    },
+    "social_media": {
+      "x": "https://x.com/Halo333x",
+      "youtube": "https://www.youtube.com/@Halo333x",
+      "discord": "https://discord.gg/9Zs5m8u2"
     }
   }
 }
