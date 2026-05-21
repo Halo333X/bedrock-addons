@@ -1,6 +1,10 @@
 {
   "url": "https://halo333x.github.io/bedrock-launcher/",
   "launch_button_color": "#268fd8",
+  "window": {
+    "name": "Minecraft - Squid Event",
+    "icon": "block.ico"
+  },
   "data": {
     "music": [
       "Aria Math_spotdown.org.mp3",
