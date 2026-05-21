@@ -1,10 +1,14 @@
 {
+  "url": "https://halo333x.github.io/bedrock-launcher/",
   "data": {
     "music": [
-
+      "Music.mp3"
     ],
     "textures": [
-      
+      "Test.zip"
+    ],
+    "icons": [
+      "title.png"
     ]
   }
 }
