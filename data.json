@@ -8,7 +8,12 @@
       "Test.zip"
     ],
     "icons": [
-      "title.png"
-    ]
+      "title.png",
+      "background.png"
+    ],
+    "server": {
+      "ip": "play.hypixel.net",
+      "port": 25565
+    }
   }
 }
