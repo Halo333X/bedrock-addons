@@ -1,6 +1,7 @@
 {
   "url": "https://halo333x.github.io/bedrock-launcher/",
   "launch_button_color": "#268fd8",
+  "background_opacity": 0.8,
   "window": {
     "name": "Night Launcher",
     "icon": "block.ico"
@@ -35,7 +36,7 @@
     ],
     "icons": {
       "tite": "title.png",
-      "background": "background.jpg",
+      "background": "background.mp4",
       "logo": "logo_transparent.png"
     },
     "server": {
