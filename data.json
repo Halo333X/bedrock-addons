@@ -33,10 +33,11 @@
     "textures": [
       "NeBuxUI+_V1.4.2.zip"
     ],
-    "icons": [
-      "title.png",
-      "background.jpg"
-    ],
+    "icons": {
+      "tite": "title.png",
+      "background": "background.jpg",
+      "logo": "logo.png"
+    },
     "server": {
       "ip": "23.27.211.2",
       "port": 25734
