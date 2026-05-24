@@ -36,7 +36,7 @@
     "icons": {
       "tite": "title.png",
       "background": "background.jpg",
-      "logo": "logo.png"
+      "logo": "logo_transparent.png"
     },
     "server": {
       "ip": "23.27.211.2",
